@@ -1,6 +1,6 @@
 # Hello, I'm Henry 👋
 
-I am a college student at public university, and I will be a new graduate in early December. 
+I am a college student at public university. 
 
 As a college student and soon to be new graduate, I'm interested in game development, web development, virtual reality, and augmented reality. I enjoy working on exciting new problems, learning new tools, and picking up new skills.
 
