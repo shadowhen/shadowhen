@@ -1,8 +1,8 @@
 # Hello, I'm Henry 👋
 
-I am a college student at public university. 
+I am new graduate from a public university. 
 
-As a college student and soon to be new graduate, I'm interested in game development, web development, virtual reality, and augmented reality. I enjoy working on exciting new problems, learning new tools, and picking up new skills.
+As a new graduate, I'm interested in game development, web development, virtual reality, and augmented reality. I enjoy working on exciting new problems, learning new tools, and picking up new skills.
 
 <!--
 **henrynhan/henrynhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
