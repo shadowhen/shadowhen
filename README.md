@@ -1,8 +1,8 @@
 # Hello, I'm Henry 👋
 
-I am new graduate from a public university. 
+I am hobbyist game developer who also dabbles in web development, virtual reality, and augmented reality.
 
-As a new graduate, I'm interested in game development, web development, virtual reality, and augmented reality. I enjoy working on exciting new problems, learning new tools, and picking up new skills.
+As a hobbyist game developer, I enjoy working on new problems, learning new tools, picking new skills, and creating new experiences.
 
 <!--
 **henrynhan/henrynhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
